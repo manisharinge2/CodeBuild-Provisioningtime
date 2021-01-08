@@ -6,4 +6,4 @@ phases:
       - echo $CODEBUILD_SOURCE_VERSION
       - echo $branchName
       - echo "Hello"
-      
+      - echo "Hello2"
