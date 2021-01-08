@@ -7,3 +7,4 @@ phases:
       - echo $branchName
       - echo "Hello"
       - echo "Hello2"
+      - echo hello"
